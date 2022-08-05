@@ -20,6 +20,7 @@ public class CreateCustomerTestAPI extends BaseTest {
 response.prettyPrint();
 
 System.out.println(response.statusCode());
+System.out.println("Success!!! on the test");
 }
 	
 	
