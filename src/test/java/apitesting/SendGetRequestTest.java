@@ -5,7 +5,7 @@ import static io.restassured.RestAssured.*;
 
 import io.restassured.response.Response;
 
-public class SendGetRequest {
+public class SendGetRequestTest {
 public static String token = "sk_test_51KVcLYSJq1W2leYcgaGfEEtRhJNj5rvnpshyWYAu0CQ6UazqOgSP29sXPSj6c8qODoUNj8eT0CNm2w5Fv9evRhsv00tOI2pRVw";
 
 	/*Set Authentication-- basic auth/ bearer token using headers
